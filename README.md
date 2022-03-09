@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zjy-lv
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on learn something at github
 - 📫 How to reach me 894662825@qq.com
 
 <!---
